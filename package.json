@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "getting started with electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewpager/electron-demo.git"
+  },
+  "author": "drew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewpager/electron-demo/issues"
+  },
+  "homepage": "https://github.com/drewpager/electron-demo#readme",
+  "devDependencies": {
+    "electron": "^37.2.0"
+  }
+}
